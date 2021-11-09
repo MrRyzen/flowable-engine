@@ -79,6 +79,8 @@
 		<flowable.osgi.remove.headers>Ignore-Package,Include-Resource,Private-Package,Bundle-DocURL</flowable.osgi.remove.headers>
 		<flowable.osgi.include.resource>{maven-resources}</flowable.osgi.include.resource>
 		<flowable.osgi.embed></flowable.osgi.embed>
+  		<sonar.organization>y6</sonar.organization>
+  		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 
 	<dependencyManagement>
